@@ -1,4 +1,6 @@
 
+
+// importing the libraries
 const QrCode = require('qrcode');
 const readline = require('readline-sync');
 
