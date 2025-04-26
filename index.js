@@ -24,3 +24,5 @@ function (err){
     }
 }
 )
+
+// view qr in file
